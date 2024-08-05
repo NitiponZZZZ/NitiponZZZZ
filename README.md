@@ -6,7 +6,6 @@ Robotics Developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nitipon9.dev@gmail.com](mailto:nitipon9.dev@gmail.com)
-* 🧠  I'm learning Flutter, Go, JavaScript
 
 ### Socials
 
